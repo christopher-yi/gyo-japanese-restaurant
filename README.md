@@ -1,4 +1,4 @@
-# gyo-japanese-restaurant
+# Gyo Japanese Restaurant
 A restaurant website with a sleek and modern feel.
 
 **Link to project:** https://delicate-cannoli-d21b04.netlify.app/
